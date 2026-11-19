@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="360" viewBox="0 0 960 360" role="img" aria-labelledby="title desc">
+  <title id="title">产品实践闭环</title>
+  <desc id="desc">发现需求、验证付费、开发产品、推广分发、获取反馈、持续迭代，并从迭代中发现新机会。</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#8c959f"/>
+    </marker>
+    <marker id="accent-arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#58a6ff"/>
+    </marker>
+  </defs>
+
+  <g fill="none" stroke="#8c959f" stroke-width="3" marker-end="url(#arrow)">
+    <path d="M240 84 H376"/>
+    <path d="M580 84 H716"/>
+    <path d="M820 120 V224"/>
+    <path d="M716 260 H584"/>
+    <path d="M376 260 H244"/>
+  </g>
+
+  <path d="M140 224 V176 Q140 152 164 152 H796 Q820 152 820 128" fill="none" stroke="#58a6ff" stroke-width="3" stroke-dasharray="8 8" marker-end="url(#accent-arrow)"/>
+  <text x="480" y="143" text-anchor="middle" fill="#58a6ff" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft YaHei',sans-serif" font-size="20" font-weight="600">发现新机会</text>
+
+  <g fill="#161b22" stroke="#8c959f" stroke-width="2">
+    <rect x="40" y="48" width="200" height="72" rx="14"/>
+    <rect x="380" y="48" width="200" height="72" rx="14"/>
+    <rect x="720" y="48" width="200" height="72" rx="14"/>
+    <rect x="720" y="224" width="200" height="72" rx="14"/>
+    <rect x="380" y="224" width="200" height="72" rx="14"/>
+    <rect x="40" y="224" width="200" height="72" rx="14"/>
+  </g>
+
+  <g fill="#f0f6fc" text-anchor="middle" dominant-baseline="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft YaHei',sans-serif" font-size="25" font-weight="600">
+    <text x="140" y="84">发现需求</text>
+    <text x="480" y="84">验证付费</text>
+    <text x="820" y="84">开发产品</text>
+    <text x="820" y="260">推广分发</text>
+    <text x="480" y="260">获取反馈</text>
+    <text x="140" y="260">持续迭代</text>
+  </g>
+</svg>

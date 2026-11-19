@@ -76,15 +76,11 @@
 
 ## 我的实践方法
 
-```mermaid
-flowchart LR
-    A[发现需求] --> B[验证付费]
-    B --> C[开发产品]
-    C --> D[推广分发]
-    D --> E[获取反馈]
-    E --> F[持续迭代]
-    F -. 发现新机会 .-> A
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/practice-loop-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/practice-loop-light.svg">
+  <img alt="发现需求、验证付费、开发产品、推广分发、获取反馈、持续迭代的闭环流程" src="./assets/practice-loop-light.svg">
+</picture>
 
 ---
 
