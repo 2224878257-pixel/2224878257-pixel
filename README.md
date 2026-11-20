@@ -108,7 +108,7 @@
 
 ### 内容生产与自动化
 
-- **多平台内容制作 Skill**：把同一份研究转成公众号、X 和 B 站内容，并检查事实一致性
+- **[侯同学·内容创作助手](https://github.com/2224878257-pixel/hou-content-creator)**：保留创作者真实观点与个人语气，支持中文内容创作、事实核查、跨平台适配、隐私保护和十项质量审核 · [v1.0.0 下载](https://github.com/2224878257-pixel/hou-content-creator/releases/tag/v1.0.0)
 
 ---
 
