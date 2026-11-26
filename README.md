@@ -108,7 +108,7 @@
 
 ### 内容生产与自动化
 
-- **[侯同学·内容创作助手](https://github.com/2224878257-pixel/hou-content-creator)**：保留创作者真实观点与个人语气，支持中文内容创作、事实核查、跨平台适配、隐私保护和三遍内部审核 · [v1.0.1 下载](https://github.com/2224878257-pixel/hou-content-creator/releases/tag/v1.0.1)
+- **[侯同学·内容创作助手](https://github.com/2224878257-pixel/hou-content-creator)**：保留创作者真实观点与个人语气，支持中文内容创作、事实核查、跨平台适配、隐私保护和三遍内部审核 · [下载最新版](https://github.com/2224878257-pixel/hou-content-creator/releases/latest)
 
 ---
 
